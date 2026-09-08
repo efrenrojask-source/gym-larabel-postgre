@@ -1,0 +1,6 @@
+{
+  "name": "Gym ERP Architecture & Code Hub",
+  "description": "Arquitectura integral, esquema relacional PostgreSQL, código de servicios Laravel (Hikvision ISAPI, Twilio, CRON) y diseño frontend Vue 3 para Gestión de Gimnasios en GCP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
